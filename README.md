@@ -5,14 +5,14 @@ Reqs:
 * Ruby and bundler must be installed
 * Update the required values in code:
 
-licence_no=''		  #e.g. 'JAMES123456J99XZ'
-test_ref_no=''		#e.g. '12345678'
-test_month=''  		#e.g. '/12/2017'
-test_location='' 	#e.g. 'N4'
+licence_no=''		  #e.g. 'JAMES123456J99XZ'   
+test_ref_no=''		#e.g. '12345678'    
+test_month=''  		#e.g. '/12/2017'   
+test_location='' 	#e.g. 'N4'   
 
 Usage:
 =======
-bundle install
+bundle install   
 ruby driving.rb
 
 
