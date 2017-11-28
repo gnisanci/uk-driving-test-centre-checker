@@ -1,4 +1,4 @@
-It's hard to find an available UK driving test centre lot on a desired area. This little ruby program checks for them in the background and notifies you if a lot becomes available in the test centre.
+It's hard to find an available place at a UK practical driving test centre. This little ruby program runs on console, checks for them in the background and notifies you if a lot becomes available at the selected test centre on the desired date.
 
 Reqs:
 =====
