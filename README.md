@@ -2,8 +2,8 @@ It's hard to find an available UK driving test centre lot on a desired area. Thi
 
 Reqs:
 =====
-. Ruby and bundler must be installed
-. Update the required values in code:
+* Ruby and bundler must be installed
+* Update the required values in code:
 
 licence_no=''		  #e.g. 'JAMES123456J99XZ'
 test_ref_no=''		#e.g. '12345678'
